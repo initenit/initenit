@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - i'm student of CNU Computer Science Engineering
-- i'm studying data communication, OS, Alogrithm etc ...
-- i'm interested in computer games since i was 4yo.
-- i always want to develop computer games.
+- i'm studying Algorithm, Data Science, ML etc ...
+- i'm interested in Autonomous Driving.
 
 <!--
 **initenit/initenit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
